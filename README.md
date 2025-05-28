@@ -30,7 +30,11 @@ A full-stack web application to upload, preview, comment on, and share PDF files
 
 | Dashboard | PDF Viewer | Comment System | Share Dialog |
 |----------|-------------|----------------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Viewer](screenshots/viewer.png) | ![Comments](screenshots/comments.png) | ![Dialog](screenshots/share-dialog.png) |
+| ![WhatsApp Image 2025-05-28 at 11 03 02 PM](https://github.com/user-attachments/assets/f04341d5-e267-4773-b843-7e2da7de11aa)
+![WhatsApp Image 2025-05-28 at 11 02 59 PM](https://github.com/user-attachments/assets/4ced34d2-10c8-4c7e-8a17-d9692b69e558)
+![WhatsApp Image 2025-05-28 at 11 02 58 PM (1)](https://github.com/user-attachments/assets/9b49547a-ba29-4d9d-b4bb-16562cf31d03)
+![WhatsApp Image 2025-05-28 at 11 02 58 PM](https://github.com/user-attachments/assets/761d7b7f-6b07-4fd2-aae6-f4632f42eb6d)
+|
 
 > Add your actual screenshots in the screenshots/ folder.
 
