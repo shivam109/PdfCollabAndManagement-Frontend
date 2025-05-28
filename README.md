@@ -26,16 +26,18 @@ A full-stack web application to upload, preview, comment on, and share PDF files
 
 ---
 ## 🔌 API Endpoints
-Endpoint	Method	Description
-/api/auth/signup	POST	Register a new user
-/api/auth/login	POST	Authenticate user
-/api/files/upload	POST	Upload a PDF file
-/api/files/user/:uid	GET	List user's PDFs
-/api/files/view/:filename	GET	Stream PDF preview
-/api/files/:id/share	GET	Generate public share link
-/api/files/:id/share/email	POST	Share link to email address
-/api/files/:id/comments	GET	Fetch all comments
-/api/files/:id/comments	POST	Add comment or reply
+| Endpoint                     | Method | Description                 |
+| ---------------------------- | ------ | --------------------------- |
+| `/api/auth/signup`           | POST   | Register a new user         |
+| `/api/auth/login`            | POST   | Authenticate user           |
+| `/api/files/upload`          | POST   | Upload a PDF file           |
+| `/api/files/user/:uid`       | GET    | List user's PDFs            |
+| `/api/files/view/:filename`  | GET    | Stream PDF preview          |
+| `/api/files/:id/share`       | GET    | Generate public share link  |
+| `/api/files/:id/share/email` | POST   | Share link to email address |
+| `/api/files/:id/comments`    | GET    | Fetch all comments          |
+| `/api/files/:id/comments`    | POST   | Add comment or reply        |
+
 ---
 
 ## 📸 Screenshots
