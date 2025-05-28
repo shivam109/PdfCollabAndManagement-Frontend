@@ -53,6 +53,10 @@ A full-stack web application to upload, preview, comment on, and share PDF files
 
 📹 [Watch Demo]([https://your-video-link.com](https://drive.google.com/file/d/1iCfxBRPXJxSjq2yAUEJr-OFOHhntJsv9/view?usp=drive_link))
 
+
+https://github.com/user-attachments/assets/bbfc014b-9ae2-40e6-befa-3ea8b61fde11
+
+
 ---
 
 ## ⚙ Getting Started
